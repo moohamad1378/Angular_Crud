@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Projects\\Angular\\Angular_Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\models\\peymantdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\models\\peymantdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\angular_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\angular_crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\angular_crud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\angular_crud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\migrations\\20241214074631_updating_realtionss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\migrations\\20241214074631_updating_realtionss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\migrations\\20241214074409_updating_realtions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\migrations\\20241214074409_updating_realtions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|d:\\work\\projects\\angular\\angular_crud\\angular_crud\\migrations\\20241214073845_add_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D35F211-8A09-4AC6-B463-EB1BDAC6C568}|Angular_Crud\\Angular_Crud.csproj|solutionrelative:angular_crud\\migrations\\20241214073845_add_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Angular_Crud\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Angular_Crud\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwCMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:49:13.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241214074631_Updating_realtionss.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Migrations\\20241214074631_Updating_realtionss.cs",
+              "RelativeDocumentMoniker": "Angular_Crud\\Migrations\\20241214074631_Updating_realtionss.cs",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Migrations\\20241214074631_Updating_realtionss.cs",
+              "RelativeToolTip": "Angular_Crud\\Migrations\\20241214074631_Updating_realtionss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:46:31.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241214074409_Updating_realtions.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Migrations\\20241214074409_Updating_realtions.cs",
+              "RelativeDocumentMoniker": "Angular_Crud\\Migrations\\20241214074409_Updating_realtions.cs",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Migrations\\20241214074409_Updating_realtions.cs",
+              "RelativeToolTip": "Angular_Crud\\Migrations\\20241214074409_Updating_realtions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:44:10.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Angular_Crud\\Models\\Department.cs",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Models\\Department.cs",
+              "RelativeToolTip": "Angular_Crud\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:37:16.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Angular_Crud.csproj",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Angular_Crud.csproj",
+              "RelativeDocumentMoniker": "Angular_Crud\\Angular_Crud.csproj",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Angular_Crud.csproj",
+              "RelativeToolTip": "Angular_Crud\\Angular_Crud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T11:08:47.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "Angular_Crud\\Controllers\\PaymentDetailController.cs",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "Angular_Crud\\Controllers\\PaymentDetailController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:59:19.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Program.cs",
+              "RelativeDocumentMoniker": "Angular_Crud\\Program.cs",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Program.cs",
+              "RelativeToolTip": "Angular_Crud\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:22:51.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "Angular_Crud\\Models\\PaymentDetail.cs",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "Angular_Crud\\Models\\PaymentDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:33:33.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Angular_Crud\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Angular_Crud\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:46:44.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241214073845_add_department.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Migrations\\20241214073845_add_department.cs",
+              "RelativeDocumentMoniker": "Angular_Crud\\Migrations\\20241214073845_add_department.cs",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Migrations\\20241214073845_add_department.cs",
+              "RelativeToolTip": "Angular_Crud\\Migrations\\20241214073845_add_department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:38:45.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Angular_Crud",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Angular_Crud.csproj",
+              "RelativeDocumentMoniker": "Angular_Crud\\Angular_Crud.csproj",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Angular_Crud.csproj",
+              "RelativeToolTip": "Angular_Crud\\Angular_Crud.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T11:41:15.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeymantDetailContext.cs",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Models\\PeymantDetailContext.cs",
+              "RelativeDocumentMoniker": "Angular_Crud\\Models\\PeymantDetailContext.cs",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\Models\\PeymantDetailContext.cs",
+              "RelativeToolTip": "Angular_Crud\\Models\\PeymantDetailContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:43:42.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\appsettings.json",
+              "RelativeDocumentMoniker": "Angular_Crud\\appsettings.json",
+              "ToolTip": "D:\\Work\\Projects\\Angular\\Angular_Crud\\Angular_Crud\\appsettings.json",
+              "RelativeToolTip": "Angular_Crud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T11:08:54.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
